@@ -1,2 +1,5 @@
 Welcome to Git hub Practice sessions.
 
+Here We will be writing the code for automation for registration page of a website.
+
+The name of the website will be revealed in next commits.
